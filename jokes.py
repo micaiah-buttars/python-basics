@@ -1,3 +1,5 @@
+# This script prints out a series of jokes, 
+# illustrating various ways to use quotes and print strings into the console.
 print('What do you get when you cross a snowman with a vampire?')
 input()
 print('Frostbite!')
