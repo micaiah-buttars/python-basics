@@ -1,3 +1,6 @@
+# This is, essentially, a coin toss game.
+# It focuses on multi-line strings and using a
+# time delay between prints with time.sleep()
 import random
 import time
 
